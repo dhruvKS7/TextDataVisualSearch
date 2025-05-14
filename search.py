@@ -576,7 +576,6 @@ def construct_viz_tree(data):
         doc2keywords = llm_merge(llm_pass, doc2keywords, keyword_freq)
         globalk2docs = make_keyword2docs(doc2keywords)
         
-        # def greedy_set_cover(all_docs, doc2keywords, exclude):
         # calculate greedy set cover for a level
         def greedy_set_cover(all_docs, doc2keywords):
             exclude = set()
