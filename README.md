@@ -4,4 +4,4 @@ This repository contains the code for my visual search feature for the TextData 
 
 The final report contains all of the details regarding implementation. Alternatively, the following YouTube video offers an overview of the project along with a real-time demonstration of its use: https://youtu.be/nUlfqc595mQ
 
-**Note:** The UI presented in the video above was an early iteration and is not fully representative of the final UI. For a detailed look at the finalized frontend, please look at the relevant figures in the final report.
+**Note:** The UI presented in the video above was an early iteration and is not fully representative of the current UI. For a detailed look at the finalized frontend, please look at the relevant figures in the report.
